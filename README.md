@@ -1,2 +1,2 @@
 # Space Simulation
-## Barnest-Hut-Algorithm
+## Barnes-Hut-Algorithm
